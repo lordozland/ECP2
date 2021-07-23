@@ -24,4 +24,8 @@ router.get('/company', async (req, res) => {
   res.render('company');
 });
 
+router.get('/contact', async (req, res) => {
+  res.render('contact');
+});
+
 module.exports = router;
