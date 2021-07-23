@@ -13,3 +13,5 @@ This is the rebuild.
 
 
 To Do:
+
+https://www.tutorialspoint.com/html/html_email_links.htm - mailto link or PHP or CGI script
