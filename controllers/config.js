@@ -12,6 +12,10 @@ router.get('/life', async (req, res) => {
   res.render('life');
 });
 
+router.get('/sound', async (req, res) => {
+  res.render('sound');
+});
+
 router.get('/design', async (req, res) => {
   res.render('design');
 });
