@@ -1,0 +1,26 @@
+{
+  "name": "ecp2",
+  "version": "1.0.0",
+  "description": "The Greatest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordozland/ECP2.git"
+  },
+  "author": "Ptocoijn Mystikoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordozland/ECP2/issues"
+  },
+  "homepage": "https://github.com/lordozland/ECP2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "node": "^16.5.0",
+    "nodemon": "^2.0.12"
+  }
+}
