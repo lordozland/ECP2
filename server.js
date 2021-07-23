@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3333;
 app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(express.static('views/images')); 
+// app.use(express.static('views/images')); 
 app.use(require('./controllers/config'));
 
 app.listen(PORT, () => {
