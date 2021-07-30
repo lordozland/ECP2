@@ -1,0 +1,7 @@
+{{!-- <div class="container">  I want this to be an image of me. 
+    <div class="row">
+        <div class="col s12 m12 l12">
+            {{!-- <img src="images/me-light.jpeg" alt="Me"> --}}
+        </div>
+    </div>
+</div> --}}
